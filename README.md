@@ -1,1 +1,1 @@
-https://mushroom11167.github.io/integral_methods
+https://mushroom11167.github.io/integral_methods.html
